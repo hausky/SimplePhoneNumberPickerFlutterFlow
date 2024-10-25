@@ -5,6 +5,7 @@ A custom FlutterFlow widget that provides a simple phone number picker with coun
 ## Features
 - **Country Selection:** Allows users to select from a list of predefined countries.
 - **Phone Number Input:** Users can input their phone number, which is formatted with the selected country code.
+- **Forced Number Formatting:** Ensures that the phone number input is restricted to only numbers, excluding special characters and letters.
 - **State Management:** Automatically updates the `FFAppState` with the full phone number, including the country dial code.
 
 ## Widget Preview
