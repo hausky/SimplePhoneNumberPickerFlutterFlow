@@ -1,6 +1,3 @@
-# SimplePhoneNumberPickerFlutterFlow
-Custom widget for selecting country codes and entering phone numbers with a dropdown and text input.
-
 # SimplePhoneNumberPicker
 
 A custom FlutterFlow widget that provides a simple phone number picker with country selection. This widget allows users to choose a country from a dropdown list and input a phone number in a text field. The widget automatically formats the number with the correct country dial code.
