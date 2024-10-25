@@ -12,7 +12,8 @@ A custom FlutterFlow widget that provides a simple phone number picker with coun
 ![image](https://github.com/user-attachments/assets/dd5a6cfc-4bf9-4e4d-839d-127292002871)
 
 ## Installation
-Create a new custom widget in FlutterFlow, save and compile the widget.
+1. Create a new custom widget in FlutterFlow, save and compile the widget.
+2. Create a app state with data type string named "phone".
 
 ### Adding the Widget
 To use `SimplePhoneNumberPicker`, add it to your FlutterFlow page and specify optional `width` and `height` parameters if needed. I suggest 350 width and 80 height.
